@@ -1,0 +1,24 @@
+{
+    "burger":[
+        {
+            "id":1,
+            "name":" Tribute burger",
+            "description":"A mouth watered honest buger"
+        },
+        {
+            "id":2,
+            "name":"tasty burger",
+            "description":"A tastybuger"
+        },
+        {
+            "id":3,
+            "name":"spicy burger",
+            "description":"A spicy honest buger"
+        },
+        {
+            "id":4,
+            "name":"just burger",
+            "description":" honest buger"
+        }
+    ]
+}
